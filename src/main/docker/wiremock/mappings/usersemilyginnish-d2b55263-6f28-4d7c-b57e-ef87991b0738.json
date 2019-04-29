@@ -1,0 +1,16 @@
+{
+  "id" : "d2b55263-6f28-4d7c-b57e-ef87991b0738",
+  "request" : {
+    "url" : "/users/emily/ginnish",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"emily\"},\"surname\":{\"value\":\"ginnish\"},\"dateOfBirth\":763410245.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/22.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "d2b55263-6f28-4d7c-b57e-ef87991b0738",
+  "insertionIndex" : 90
+}

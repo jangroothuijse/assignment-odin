@@ -1,0 +1,16 @@
+{
+  "id" : "d605390e-e551-4898-9760-d30c869303fa",
+  "request" : {
+    "url" : "/users/matias/gunnarsen",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"matias\"},\"surname\":{\"value\":\"gunnarsen\"},\"dateOfBirth\":490026016.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/76.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "d605390e-e551-4898-9760-d30c869303fa",
+  "insertionIndex" : 10
+}

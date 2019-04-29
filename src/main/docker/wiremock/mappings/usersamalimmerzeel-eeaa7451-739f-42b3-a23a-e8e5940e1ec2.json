@@ -1,0 +1,16 @@
+{
+  "id" : "eeaa7451-739f-42b3-a23a-e8e5940e1ec2",
+  "request" : {
+    "url" : "/users/amal/immerzeel",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"amal\"},\"surname\":{\"value\":\"immerzeel\"},\"dateOfBirth\":352277074.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/87.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "eeaa7451-739f-42b3-a23a-e8e5940e1ec2",
+  "insertionIndex" : 36
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "7f01531e-d079-4cd7-b1ef-ea87d75f9c56",
+  "request" : {
+    "url" : "/users/louison/roy",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"louison\"},\"surname\":{\"value\":\"roy\"},\"dateOfBirth\":-645599984.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/6.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "7f01531e-d079-4cd7-b1ef-ea87d75f9c56",
+  "insertionIndex" : 21
+}

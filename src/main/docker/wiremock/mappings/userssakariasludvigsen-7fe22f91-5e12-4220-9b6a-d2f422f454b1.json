@@ -1,0 +1,16 @@
+{
+  "id" : "7fe22f91-5e12-4220-9b6a-d2f422f454b1",
+  "request" : {
+    "url" : "/users/sakarias/ludvigsen",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"sakarias\"},\"surname\":{\"value\":\"ludvigsen\"},\"dateOfBirth\":641209288.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/85.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "7fe22f91-5e12-4220-9b6a-d2f422f454b1",
+  "insertionIndex" : 20
+}

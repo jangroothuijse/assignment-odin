@@ -1,0 +1,16 @@
+{
+  "id" : "8fdbcd67-968c-46aa-90da-0c78ac3d6494",
+  "request" : {
+    "url" : "/users/eva/sirko",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"eva\"},\"surname\":{\"value\":\"sirko\"},\"dateOfBirth\":-613240236.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/92.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "8fdbcd67-968c-46aa-90da-0c78ac3d6494",
+  "insertionIndex" : 78
+}

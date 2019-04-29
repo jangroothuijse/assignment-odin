@@ -1,0 +1,16 @@
+{
+  "id" : "073c442f-9690-4ad7-91f3-d7b7fb3412db",
+  "request" : {
+    "url" : "/users/victoria/graves",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"victoria\"},\"surname\":{\"value\":\"graves\"},\"dateOfBirth\":-781142213.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/7.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "073c442f-9690-4ad7-91f3-d7b7fb3412db",
+  "insertionIndex" : 96
+}

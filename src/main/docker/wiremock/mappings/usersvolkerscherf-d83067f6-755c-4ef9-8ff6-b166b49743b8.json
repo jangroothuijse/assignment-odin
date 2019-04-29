@@ -1,0 +1,16 @@
+{
+  "id" : "d83067f6-755c-4ef9-8ff6-b166b49743b8",
+  "request" : {
+    "url" : "/users/volker/scherf",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"volker\"},\"surname\":{\"value\":\"scherf\"},\"dateOfBirth\":658194430.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/64.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "d83067f6-755c-4ef9-8ff6-b166b49743b8",
+  "insertionIndex" : 62
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "c5c1a48b-2630-4550-a361-613db0003e91",
+  "request" : {
+    "url" : "/users/kaitlin/steward",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"kaitlin\"},\"surname\":{\"value\":\"steward\"},\"dateOfBirth\":104549641.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/11.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "c5c1a48b-2630-4550-a361-613db0003e91",
+  "insertionIndex" : 4
+}

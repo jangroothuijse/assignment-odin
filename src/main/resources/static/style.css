@@ -1,0 +1,11 @@
+#filter {
+	background-color: #ccc;
+	padding: 25px;
+}
+#content {
+	padding: 25px;
+}
+
+#content table {
+	width: 100%;
+}

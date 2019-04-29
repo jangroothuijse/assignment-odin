@@ -1,0 +1,16 @@
+{
+  "id" : "812349db-baaa-4c79-abfa-102f8246f9c0",
+  "request" : {
+    "url" : "/users/kuzey/g%C3%BCrmen",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"kuzey\"},\"surname\":{\"value\":\"gürmen\"},\"dateOfBirth\":-709768843.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/4.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "812349db-baaa-4c79-abfa-102f8246f9c0",
+  "insertionIndex" : 28
+}

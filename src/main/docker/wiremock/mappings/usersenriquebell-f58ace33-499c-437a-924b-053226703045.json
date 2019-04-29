@@ -1,0 +1,16 @@
+{
+  "id" : "f58ace33-499c-437a-924b-053226703045",
+  "request" : {
+    "url" : "/users/enrique/bell",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"enrique\"},\"surname\":{\"value\":\"bell\"},\"dateOfBirth\":828763541.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/5.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "f58ace33-499c-437a-924b-053226703045",
+  "insertionIndex" : 99
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "ed52857e-0a7b-4fba-81e3-d85c877a43f0",
+  "request" : {
+    "url" : "/users/curtis/rice",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"curtis\"},\"surname\":{\"value\":\"rice\"},\"dateOfBirth\":82349732.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/22.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "ed52857e-0a7b-4fba-81e3-d85c877a43f0",
+  "insertionIndex" : 40
+}

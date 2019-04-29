@@ -1,0 +1,16 @@
+{
+  "id" : "b154a994-0d17-4451-b656-43fe860505be",
+  "request" : {
+    "url" : "/users/tatjana/dumont",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"tatjana\"},\"surname\":{\"value\":\"dumont\"},\"dateOfBirth\":-776909075.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/50.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "b154a994-0d17-4451-b656-43fe860505be",
+  "insertionIndex" : 14
+}

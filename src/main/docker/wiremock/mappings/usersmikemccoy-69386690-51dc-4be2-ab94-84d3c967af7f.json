@@ -1,0 +1,16 @@
+{
+  "id" : "69386690-51dc-4be2-ab94-84d3c967af7f",
+  "request" : {
+    "url" : "/users/mike/mccoy",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"mike\"},\"surname\":{\"value\":\"mccoy\"},\"dateOfBirth\":-698046270.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/6.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "69386690-51dc-4be2-ab94-84d3c967af7f",
+  "insertionIndex" : 64
+}

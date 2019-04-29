@@ -1,0 +1,16 @@
+{
+  "id" : "37c66c43-3529-462e-914b-6d0e076a8070",
+  "request" : {
+    "url" : "/users/francisco/terry",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"francisco\"},\"surname\":{\"value\":\"terry\"},\"dateOfBirth\":244332693.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/20.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "37c66c43-3529-462e-914b-6d0e076a8070",
+  "insertionIndex" : 9
+}

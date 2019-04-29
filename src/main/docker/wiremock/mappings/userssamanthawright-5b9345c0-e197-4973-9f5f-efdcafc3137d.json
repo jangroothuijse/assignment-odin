@@ -1,0 +1,16 @@
+{
+  "id" : "5b9345c0-e197-4973-9f5f-efdcafc3137d",
+  "request" : {
+    "url" : "/users/samantha/wright",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"samantha\"},\"surname\":{\"value\":\"wright\"},\"dateOfBirth\":133855006.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/30.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "5b9345c0-e197-4973-9f5f-efdcafc3137d",
+  "insertionIndex" : 52
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "4b80335c-99f8-463b-9cc8-2d1288552ae8",
+  "request" : {
+    "url" : "/users/nathan/patel",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"nathan\"},\"surname\":{\"value\":\"patel\"},\"dateOfBirth\":70102022.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/50.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "4b80335c-99f8-463b-9cc8-2d1288552ae8",
+  "insertionIndex" : 83
+}

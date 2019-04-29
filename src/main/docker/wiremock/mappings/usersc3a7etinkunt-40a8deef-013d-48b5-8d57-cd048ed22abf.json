@@ -1,0 +1,16 @@
+{
+  "id" : "40a8deef-013d-48b5-8d57-cd048ed22abf",
+  "request" : {
+    "url" : "/users/%C3%A7etin/kunt",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"çetin\"},\"surname\":{\"value\":\"kunt\"},\"dateOfBirth\":813077707.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/90.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "40a8deef-013d-48b5-8d57-cd048ed22abf",
+  "insertionIndex" : 66
+}

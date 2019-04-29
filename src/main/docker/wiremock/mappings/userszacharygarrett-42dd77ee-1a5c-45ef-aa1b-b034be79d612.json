@@ -1,0 +1,16 @@
+{
+  "id" : "42dd77ee-1a5c-45ef-aa1b-b034be79d612",
+  "request" : {
+    "url" : "/users/zachary/garrett",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"zachary\"},\"surname\":{\"value\":\"garrett\"},\"dateOfBirth\":-210327120.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/1.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "42dd77ee-1a5c-45ef-aa1b-b034be79d612",
+  "insertionIndex" : 77
+}

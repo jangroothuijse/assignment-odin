@@ -1,0 +1,16 @@
+{
+  "id" : "25e137b9-ad70-4afa-a67f-2ecddde1ccae",
+  "request" : {
+    "url" : "/users/karla/lang%C3%B8rgen",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"karla\"},\"surname\":{\"value\":\"langørgen\"},\"dateOfBirth\":-728263221.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/5.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "25e137b9-ad70-4afa-a67f-2ecddde1ccae",
+  "insertionIndex" : 94
+}

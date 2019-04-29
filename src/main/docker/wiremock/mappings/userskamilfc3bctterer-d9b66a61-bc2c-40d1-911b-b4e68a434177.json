@@ -1,0 +1,16 @@
+{
+  "id" : "d9b66a61-bc2c-40d1-911b-b4e68a434177",
+  "request" : {
+    "url" : "/users/kamil/f%C3%BCtterer",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"kamil\"},\"surname\":{\"value\":\"fütterer\"},\"dateOfBirth\":-193780505.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/59.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "d9b66a61-bc2c-40d1-911b-b4e68a434177",
+  "insertionIndex" : 22
+}

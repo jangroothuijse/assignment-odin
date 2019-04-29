@@ -1,0 +1,16 @@
+{
+  "id" : "3e2db470-16b7-43cb-83f6-8f516403b318",
+  "request" : {
+    "url" : "/users/sofus/solheim",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"sofus\"},\"surname\":{\"value\":\"solheim\"},\"dateOfBirth\":-741148025.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/28.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "3e2db470-16b7-43cb-83f6-8f516403b318",
+  "insertionIndex" : 85
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "7361def4-bffa-4946-8ac4-ac7cf0659f83",
+  "request" : {
+    "url" : "/users/beth/alexander",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"beth\"},\"surname\":{\"value\":\"alexander\"},\"dateOfBirth\":508955583.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/46.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "7361def4-bffa-4946-8ac4-ac7cf0659f83",
+  "insertionIndex" : 73
+}

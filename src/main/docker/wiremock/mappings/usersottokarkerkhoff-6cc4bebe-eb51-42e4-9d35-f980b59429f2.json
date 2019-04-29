@@ -1,0 +1,16 @@
+{
+  "id" : "6cc4bebe-eb51-42e4-9d35-f980b59429f2",
+  "request" : {
+    "url" : "/users/ottokar/kerkhoff",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"ottokar\"},\"surname\":{\"value\":\"kerkhoff\"},\"dateOfBirth\":-37541995.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/15.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "6cc4bebe-eb51-42e4-9d35-f980b59429f2",
+  "insertionIndex" : 53
+}

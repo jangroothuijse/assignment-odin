@@ -1,0 +1,16 @@
+{
+  "id" : "3bee0ec8-6aab-40db-92df-ee805d160bbf",
+  "request" : {
+    "url" : "/users/roxane/jean",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"roxane\"},\"surname\":{\"value\":\"jean\"},\"dateOfBirth\":-510314133.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/77.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "3bee0ec8-6aab-40db-92df-ee805d160bbf",
+  "insertionIndex" : 100
+}

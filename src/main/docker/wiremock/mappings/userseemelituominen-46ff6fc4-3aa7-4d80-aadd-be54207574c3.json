@@ -1,0 +1,16 @@
+{
+  "id" : "46ff6fc4-3aa7-4d80-aadd-be54207574c3",
+  "request" : {
+    "url" : "/users/eemeli/tuominen",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"eemeli\"},\"surname\":{\"value\":\"tuominen\"},\"dateOfBirth\":-271177639.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/8.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "46ff6fc4-3aa7-4d80-aadd-be54207574c3",
+  "insertionIndex" : 95
+}

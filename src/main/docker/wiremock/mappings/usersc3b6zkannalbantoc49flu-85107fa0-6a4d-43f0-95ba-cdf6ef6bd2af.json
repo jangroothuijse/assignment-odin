@@ -1,0 +1,16 @@
+{
+  "id" : "85107fa0-6a4d-43f0-95ba-cdf6ef6bd2af",
+  "request" : {
+    "url" : "/users/%C3%B6zkan/nalbanto%C4%9Flu",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"özkan\"},\"surname\":{\"value\":\"nalbantoğlu\"},\"dateOfBirth\":750721769.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/63.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "85107fa0-6a4d-43f0-95ba-cdf6ef6bd2af",
+  "insertionIndex" : 57
+}

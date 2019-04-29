@@ -1,0 +1,16 @@
+{
+  "id" : "f9c08fa3-8a7f-4b36-a5f8-cca773cfec4e",
+  "request" : {
+    "url" : "/users/b%C3%A9r%C3%A9nice/muller",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"bérénice\"},\"surname\":{\"value\":\"muller\"},\"dateOfBirth\":49918865.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/42.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "f9c08fa3-8a7f-4b36-a5f8-cca773cfec4e",
+  "insertionIndex" : 89
+}

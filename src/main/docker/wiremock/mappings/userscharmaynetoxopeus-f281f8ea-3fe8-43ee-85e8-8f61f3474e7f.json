@@ -1,0 +1,16 @@
+{
+  "id" : "f281f8ea-3fe8-43ee-85e8-8f61f3474e7f",
+  "request" : {
+    "url" : "/users/charmayne/toxopeus",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"charmayne\"},\"surname\":{\"value\":\"toxopeus\"},\"dateOfBirth\":220312680.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/82.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "f281f8ea-3fe8-43ee-85e8-8f61f3474e7f",
+  "insertionIndex" : 49
+}

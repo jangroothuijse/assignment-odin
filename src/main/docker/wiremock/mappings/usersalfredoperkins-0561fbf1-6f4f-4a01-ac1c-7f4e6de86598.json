@@ -1,0 +1,16 @@
+{
+  "id" : "0561fbf1-6f4f-4a01-ac1c-7f4e6de86598",
+  "request" : {
+    "url" : "/users/alfredo/perkins",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"alfredo\"},\"surname\":{\"value\":\"perkins\"},\"dateOfBirth\":-355807664.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/15.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "0561fbf1-6f4f-4a01-ac1c-7f4e6de86598",
+  "insertionIndex" : 74
+}

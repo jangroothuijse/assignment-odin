@@ -1,0 +1,16 @@
+{
+  "id" : "ce83c754-eb41-46e3-bf16-898638b6da1a",
+  "request" : {
+    "url" : "/users/russell/davis",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"russell\"},\"surname\":{\"value\":\"davis\"},\"dateOfBirth\":864814434.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/58.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "ce83c754-eb41-46e3-bf16-898638b6da1a",
+  "insertionIndex" : 35
+}

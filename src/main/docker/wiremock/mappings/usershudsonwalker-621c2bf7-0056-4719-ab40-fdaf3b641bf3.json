@@ -1,0 +1,16 @@
+{
+  "id" : "621c2bf7-0056-4719-ab40-fdaf3b641bf3",
+  "request" : {
+    "url" : "/users/hudson/walker",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"hudson\"},\"surname\":{\"value\":\"walker\"},\"dateOfBirth\":786594169.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/54.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "621c2bf7-0056-4719-ab40-fdaf3b641bf3",
+  "insertionIndex" : 67
+}

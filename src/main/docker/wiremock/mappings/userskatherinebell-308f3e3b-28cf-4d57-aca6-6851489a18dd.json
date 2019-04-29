@@ -1,0 +1,16 @@
+{
+  "id" : "308f3e3b-28cf-4d57-aca6-6851489a18dd",
+  "request" : {
+    "url" : "/users/katherine/bell",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"katherine\"},\"surname\":{\"value\":\"bell\"},\"dateOfBirth\":755778004.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/9.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "308f3e3b-28cf-4d57-aca6-6851489a18dd",
+  "insertionIndex" : 51
+}

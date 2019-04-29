@@ -1,0 +1,16 @@
+{
+  "id" : "25ef9435-ddfe-4743-a256-3123ff450f7d",
+  "request" : {
+    "url" : "/users/jim/burke",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"jim\"},\"surname\":{\"value\":\"burke\"},\"dateOfBirth\":298034420.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/78.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "25ef9435-ddfe-4743-a256-3123ff450f7d",
+  "insertionIndex" : 71
+}

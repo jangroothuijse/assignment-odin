@@ -1,0 +1,16 @@
+{
+  "id" : "7102bdb3-1a90-481f-8219-7cdf61917ecd",
+  "request" : {
+    "url" : "/users/floyd/schmidt",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"floyd\"},\"surname\":{\"value\":\"schmidt\"},\"dateOfBirth\":-665531262.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/24.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "7102bdb3-1a90-481f-8219-7cdf61917ecd",
+  "insertionIndex" : 11
+}

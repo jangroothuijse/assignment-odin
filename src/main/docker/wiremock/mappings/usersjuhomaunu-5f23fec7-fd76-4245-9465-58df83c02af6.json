@@ -1,0 +1,16 @@
+{
+  "id" : "5f23fec7-fd76-4245-9465-58df83c02af6",
+  "request" : {
+    "url" : "/users/juho/maunu",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"juho\"},\"surname\":{\"value\":\"maunu\"},\"dateOfBirth\":5760809.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/89.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "5f23fec7-fd76-4245-9465-58df83c02af6",
+  "insertionIndex" : 81
+}

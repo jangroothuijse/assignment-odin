@@ -1,0 +1,16 @@
+{
+  "id" : "da43607b-984d-4477-b505-053e412b0844",
+  "request" : {
+    "url" : "/users/jeremy/gagnon",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"jeremy\"},\"surname\":{\"value\":\"gagnon\"},\"dateOfBirth\":41775241.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/96.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "da43607b-984d-4477-b505-053e412b0844",
+  "insertionIndex" : 50
+}

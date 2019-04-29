@@ -1,0 +1,16 @@
+{
+  "id" : "20a79ab7-27bd-47ce-aa04-64ecb601fcd5",
+  "request" : {
+    "url" : "/users/marcella/thomann",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"marcella\"},\"surname\":{\"value\":\"thomann\"},\"dateOfBirth\":-135534167.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/0.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "20a79ab7-27bd-47ce-aa04-64ecb601fcd5",
+  "insertionIndex" : 75
+}

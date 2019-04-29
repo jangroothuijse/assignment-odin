@@ -1,0 +1,16 @@
+{
+  "id" : "b48e53c3-b892-47aa-b2de-d9a3eda89da7",
+  "request" : {
+    "url" : "/users/daisy/barbier",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"daisy\"},\"surname\":{\"value\":\"barbier\"},\"dateOfBirth\":-482177740.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/37.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "b48e53c3-b892-47aa-b2de-d9a3eda89da7",
+  "insertionIndex" : 70
+}

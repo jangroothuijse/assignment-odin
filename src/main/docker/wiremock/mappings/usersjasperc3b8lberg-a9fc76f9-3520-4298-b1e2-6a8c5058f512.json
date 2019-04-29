@@ -1,0 +1,16 @@
+{
+  "id" : "a9fc76f9-3520-4298-b1e2-6a8c5058f512",
+  "request" : {
+    "url" : "/users/jasper/%C3%B8lberg",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"jasper\"},\"surname\":{\"value\":\"ølberg\"},\"dateOfBirth\":279798254.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/45.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "a9fc76f9-3520-4298-b1e2-6a8c5058f512",
+  "insertionIndex" : 27
+}

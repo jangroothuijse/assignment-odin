@@ -1,0 +1,16 @@
+{
+  "id" : "f237cd4f-c31b-4226-8d70-4439711a6b25",
+  "request" : {
+    "url" : "/users/aymeric/meunier",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"aymeric\"},\"surname\":{\"value\":\"meunier\"},\"dateOfBirth\":618667534.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/88.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "f237cd4f-c31b-4226-8d70-4439711a6b25",
+  "insertionIndex" : 7
+}

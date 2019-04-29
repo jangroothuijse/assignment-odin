@@ -1,0 +1,16 @@
+{
+  "id" : "b11c1689-0a4a-497d-a7f4-3b2de7d84385",
+  "request" : {
+    "url" : "/users/%D8%A8%D9%87%D8%A7%D8%B1/%D9%82%D8%A7%D8%B3%D9%85%DB%8C",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"بهار\"},\"surname\":{\"value\":\"قاسمی\"},\"dateOfBirth\":312496573.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/75.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "b11c1689-0a4a-497d-a7f4-3b2de7d84385",
+  "insertionIndex" : 92
+}

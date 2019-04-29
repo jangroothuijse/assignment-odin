@@ -1,0 +1,16 @@
+{
+  "id" : "7d7f0ba4-409c-4999-bd21-7f1f53fbe511",
+  "request" : {
+    "url" : "/users/elias/petersen",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"elias\"},\"surname\":{\"value\":\"petersen\"},\"dateOfBirth\":-6345009.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/97.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "7d7f0ba4-409c-4999-bd21-7f1f53fbe511",
+  "insertionIndex" : 93
+}

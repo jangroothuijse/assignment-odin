@@ -1,0 +1,16 @@
+{
+  "id" : "f2fe1395-cabe-45c6-b905-c746ba462bab",
+  "request" : {
+    "url" : "/users/kenzi/duncan",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"kenzi\"},\"surname\":{\"value\":\"duncan\"},\"dateOfBirth\":70689014.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/45.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "f2fe1395-cabe-45c6-b905-c746ba462bab",
+  "insertionIndex" : 55
+}

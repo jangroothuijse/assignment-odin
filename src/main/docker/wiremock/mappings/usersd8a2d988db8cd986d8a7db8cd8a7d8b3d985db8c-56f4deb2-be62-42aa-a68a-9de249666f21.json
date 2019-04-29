@@ -1,0 +1,16 @@
+{
+  "id" : "56f4deb2-be62-42aa-a68a-9de249666f21",
+  "request" : {
+    "url" : "/users/%D8%A2%D9%88%DB%8C%D9%86%D8%A7/%DB%8C%D8%A7%D8%B3%D9%85%DB%8C",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"آوینا\"},\"surname\":{\"value\":\"یاسمی\"},\"dateOfBirth\":-376102362.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/0.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "56f4deb2-be62-42aa-a68a-9de249666f21",
+  "insertionIndex" : 45
+}

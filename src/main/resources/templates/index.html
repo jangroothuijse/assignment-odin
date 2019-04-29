@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" href="../static/pure-min.css" th:href="@{/pure-min.css}" />
+<link rel="stylesheet" href="../static/style.css" th:href="@{/style.css}" />
+<title th:text="#{users}">Users</title>
+</head>
+<body>
+	<div class="pure-g">
+		<div class="pure-u-1" id="filter">
+			<h1 th:text="#{users}">Users</h1>
+			<!-- filter -->
+			<form method="get" class="pure-form">
+				<fieldset>
+					<legend th:text="#{filters}">Filter users by first name and surname</legend>
+					<input type="text" name="firstName" placeholder="First name" th:placeholder="#{firstName}" th:value="${firstName}">
+					<input type="text" name="surname" placeholder="Surname" th:placeholder="#{surname}" th:value="${surname}">
+					<button type="submit" class="pure-button pure-button-primary" th:text="#{apply}">Apply</button>
+					<a class="pure-button" th:text="#{clear}" href="?">Clear</a>
+				</fieldset>
+			</form>
+		</div>
+		<div class="pure-u-1" id="content">
+			<!-- users -->
+			<table class="pure-table pure-table-striped pure-table-horizontal">
+				<thead>
+					<tr>
+						<th th:text="#{firstName}">First name</th>
+						<th th:text="#{surname}">Surname</th>
+						<th th:text="#{dateOfBirth}">Date of birth</th>
+						<th th:text="#{gender}">Gender</th>
+						<th th:text="#{picture}">Picture</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr th:each="user : ${users}">
+						<td th:text="${user.firstName.value}">John</td>
+						<td th:text="${user.surname.value}">Doe</td>
+						<td th:text="${#temporals.format(user.dateOfBirth, 'dd-MM-yyyy')}">31-01-1971</td>
+						<td th:text="${user.gender == T(nl.odin.assignment.User.Gender).MALE ? '&#9794;' : '&#9792;' }">&#9794;</td>
+						<td><img src="../static/1.jpg" th:src="${user.pictureFileName}" /></td>
+					</tr>
+					<tr th:remove="all">
+						<td>Jane</td>
+						<td>Doe</td>
+						<td>31-01-1971</td>
+						<td>&#9792;</td>
+						<td><img src="../static/0.jpg" /></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+</body>
+</html>

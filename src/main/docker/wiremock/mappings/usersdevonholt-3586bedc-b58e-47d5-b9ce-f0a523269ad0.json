@@ -1,0 +1,16 @@
+{
+  "id" : "3586bedc-b58e-47d5-b9ce-f0a523269ad0",
+  "request" : {
+    "url" : "/users/devon/holt",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"devon\"},\"surname\":{\"value\":\"holt\"},\"dateOfBirth\":-494315607.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/87.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "3586bedc-b58e-47d5-b9ce-f0a523269ad0",
+  "insertionIndex" : 33
+}

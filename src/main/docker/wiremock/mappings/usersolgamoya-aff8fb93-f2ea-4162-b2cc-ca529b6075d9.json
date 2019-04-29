@@ -1,0 +1,16 @@
+{
+  "id" : "aff8fb93-f2ea-4162-b2cc-ca529b6075d9",
+  "request" : {
+    "url" : "/users/olga/moya",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"olga\"},\"surname\":{\"value\":\"moya\"},\"dateOfBirth\":556318.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/59.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "aff8fb93-f2ea-4162-b2cc-ca529b6075d9",
+  "insertionIndex" : 24
+}

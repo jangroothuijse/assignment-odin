@@ -1,0 +1,16 @@
+{
+  "id" : "4c4406a7-a5c4-4822-aa19-29cd2f7aeb7d",
+  "request" : {
+    "url" : "/users/%D8%A2%D8%B1%DB%8C%D8%A7/%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"آریا\"},\"surname\":{\"value\":\"رضایی\"},\"dateOfBirth\":159637347.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/83.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "4c4406a7-a5c4-4822-aa19-29cd2f7aeb7d",
+  "insertionIndex" : 63
+}

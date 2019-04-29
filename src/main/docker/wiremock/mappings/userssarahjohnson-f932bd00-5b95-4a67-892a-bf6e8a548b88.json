@@ -1,0 +1,16 @@
+{
+  "id" : "f932bd00-5b95-4a67-892a-bf6e8a548b88",
+  "request" : {
+    "url" : "/users/sarah/johnson",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"sarah\"},\"surname\":{\"value\":\"johnson\"},\"dateOfBirth\":630148607.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/33.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "f932bd00-5b95-4a67-892a-bf6e8a548b88",
+  "insertionIndex" : 47
+}

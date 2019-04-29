@@ -1,0 +1,16 @@
+{
+  "id" : "ae31ab59-1b72-4e76-a839-e4d5f3ba0263",
+  "request" : {
+    "url" : "/users/ceyhan/sandalc%C4%B1",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"ceyhan\"},\"surname\":{\"value\":\"sandalcı\"},\"dateOfBirth\":41624522.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/88.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "ae31ab59-1b72-4e76-a839-e4d5f3ba0263",
+  "insertionIndex" : 72
+}

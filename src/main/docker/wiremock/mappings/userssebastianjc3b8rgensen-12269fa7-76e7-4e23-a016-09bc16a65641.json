@@ -1,0 +1,16 @@
+{
+  "id" : "12269fa7-76e7-4e23-a016-09bc16a65641",
+  "request" : {
+    "url" : "/users/sebastian/j%C3%B8rgensen",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"sebastian\"},\"surname\":{\"value\":\"jørgensen\"},\"dateOfBirth\":-334992316.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/87.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "12269fa7-76e7-4e23-a016-09bc16a65641",
+  "insertionIndex" : 15
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "e6c32a88-4b1f-4373-9a71-fa4f89658ffe",
+  "request" : {
+    "url" : "/users/viivi/ruona",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"viivi\"},\"surname\":{\"value\":\"ruona\"},\"dateOfBirth\":-163079424.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/74.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "e6c32a88-4b1f-4373-9a71-fa4f89658ffe",
+  "insertionIndex" : 3
+}

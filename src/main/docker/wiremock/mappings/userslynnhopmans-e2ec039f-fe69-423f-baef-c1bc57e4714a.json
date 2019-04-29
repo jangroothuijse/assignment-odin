@@ -1,0 +1,16 @@
+{
+  "id" : "e2ec039f-fe69-423f-baef-c1bc57e4714a",
+  "request" : {
+    "url" : "/users/lynn/hopmans",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"lynn\"},\"surname\":{\"value\":\"hopmans\"},\"dateOfBirth\":538656168.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/72.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "e2ec039f-fe69-423f-baef-c1bc57e4714a",
+  "insertionIndex" : 41
+}

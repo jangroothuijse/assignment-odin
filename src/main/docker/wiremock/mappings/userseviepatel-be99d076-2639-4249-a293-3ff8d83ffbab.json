@@ -1,0 +1,16 @@
+{
+  "id" : "be99d076-2639-4249-a293-3ff8d83ffbab",
+  "request" : {
+    "url" : "/users/evie/patel",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"evie\"},\"surname\":{\"value\":\"patel\"},\"dateOfBirth\":-547358819.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/38.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "be99d076-2639-4249-a293-3ff8d83ffbab",
+  "insertionIndex" : 84
+}

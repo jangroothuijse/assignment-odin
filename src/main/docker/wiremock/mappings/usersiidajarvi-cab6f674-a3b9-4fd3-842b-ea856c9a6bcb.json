@@ -1,0 +1,16 @@
+{
+  "id" : "cab6f674-a3b9-4fd3-842b-ea856c9a6bcb",
+  "request" : {
+    "url" : "/users/iida/jarvi",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"iida\"},\"surname\":{\"value\":\"jarvi\"},\"dateOfBirth\":624732423.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/94.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "cab6f674-a3b9-4fd3-842b-ea856c9a6bcb",
+  "insertionIndex" : 19
+}

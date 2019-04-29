@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>2.1.4.RELEASE</version>
+		<relativePath /> <!-- lookup parent from repository -->
+	</parent>
+	<groupId>nl.odin</groupId>
+	<artifactId>assignment</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>assignment</name>
+	<description>Demo project for Spring Boot</description>
+
+	<properties>
+		<java.version>1.8</java.version>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-thymeleaf</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>com.github.tomakehurst</groupId>
+			<artifactId>wiremock</artifactId>
+			<version>2.23.2</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok-maven-plugin</artifactId>
+			<version>1.18.0.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>commons-io</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>2.6</version>
+		</dependency>
+		<dependency>
+			<groupId>org.testcontainers</groupId>
+			<artifactId>testcontainers</artifactId>
+			<version>1.11.2</version>
+			<scope>test</scope>
+		</dependency>
+
+	</dependencies>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+
+			<plugin>
+				<groupId>io.fabric8</groupId>
+				<artifactId>docker-maven-plugin</artifactId>
+				<version>0.30.0</version>
+				<configuration>
+					<verbose>true</verbose>
+					<images>
+						<image>
+							<name>${project.artifactId}</name>
+
+							<build>
+								<from>openjdk:8-jdk-alpine</from>
+								<entryPoint>
+									<exec>
+										<arg>java</arg>
+										<arg>-Djava.security.egd=file:/dev/./urandom</arg>
+										<arg>-jar</arg>
+										<arg>/maven/${project.artifactId}-${project.version}.jar</arg>
+									</exec>
+								</entryPoint>
+
+								<assembly>
+									<!-- This is a predefined assembly.xml that will only copy your 
+										final artifact to the Docker image -->
+									<descriptorRef>artifact</descriptorRef>
+								</assembly>
+							</build>
+							<run>
+								<ports>
+									<port>8081:8081</port>
+								</ports>
+								<links>
+									<link>wiremock:wiremock</link>
+								</links>
+							</run>
+						</image>
+
+						<image>
+							<!-- WireMock, mocked backed image -->
+							<alias>wiremock</alias>
+							<name>wiremock</name>
+							<build>
+								<contextDir>${project.basedir}/src/main/docker/wiremock</contextDir>
+								<filter>@</filter>
+								<assembly>
+									<descriptorRef>rootWar</descriptorRef>
+								</assembly>
+							</build>
+							<run>
+								<ports>
+									<port>8080:8080</port>
+								</ports>
+							</run>
+						</image>
+					</images>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+</project>

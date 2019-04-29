@@ -1,0 +1,16 @@
+{
+  "id" : "6402204b-8446-491c-b2bb-123dd8d4bfe0",
+  "request" : {
+    "url" : "/users/frederikke/christensen",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"frederikke\"},\"surname\":{\"value\":\"christensen\"},\"dateOfBirth\":98182798.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/43.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "6402204b-8446-491c-b2bb-123dd8d4bfe0",
+  "insertionIndex" : 32
+}

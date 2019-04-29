@@ -1,0 +1,16 @@
+{
+  "id" : "44920ae2-2e6d-49c5-96af-39d9f7e9733e",
+  "request" : {
+    "url" : "/users/siegward/hertwig",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"siegward\"},\"surname\":{\"value\":\"hertwig\"},\"dateOfBirth\":-441370108.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/24.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "44920ae2-2e6d-49c5-96af-39d9f7e9733e",
+  "insertionIndex" : 39
+}

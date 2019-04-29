@@ -1,0 +1,16 @@
+{
+  "id" : "c5ce94c6-6c11-4e28-b188-d792855e001c",
+  "request" : {
+    "url" : "/users/aatu/halonen",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"aatu\"},\"surname\":{\"value\":\"halonen\"},\"dateOfBirth\":848573319.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/47.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "c5ce94c6-6c11-4e28-b188-d792855e001c",
+  "insertionIndex" : 17
+}

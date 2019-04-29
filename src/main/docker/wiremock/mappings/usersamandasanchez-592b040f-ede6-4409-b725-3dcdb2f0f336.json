@@ -1,0 +1,16 @@
+{
+  "id" : "592b040f-ede6-4409-b725-3dcdb2f0f336",
+  "request" : {
+    "url" : "/users/amanda/sanchez",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"amanda\"},\"surname\":{\"value\":\"sanchez\"},\"dateOfBirth\":331766727.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/3.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "592b040f-ede6-4409-b725-3dcdb2f0f336",
+  "insertionIndex" : 29
+}

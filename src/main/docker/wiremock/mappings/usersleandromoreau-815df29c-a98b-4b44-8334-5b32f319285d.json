@@ -1,0 +1,16 @@
+{
+  "id" : "815df29c-a98b-4b44-8334-5b32f319285d",
+  "request" : {
+    "url" : "/users/leandro/moreau",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"leandro\"},\"surname\":{\"value\":\"moreau\"},\"dateOfBirth\":-400693157.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/72.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "815df29c-a98b-4b44-8334-5b32f319285d",
+  "insertionIndex" : 38
+}

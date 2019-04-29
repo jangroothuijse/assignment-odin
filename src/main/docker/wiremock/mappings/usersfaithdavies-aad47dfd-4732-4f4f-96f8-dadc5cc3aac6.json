@@ -1,0 +1,16 @@
+{
+  "id" : "aad47dfd-4732-4f4f-96f8-dadc5cc3aac6",
+  "request" : {
+    "url" : "/users/faith/davies",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"faith\"},\"surname\":{\"value\":\"davies\"},\"dateOfBirth\":-756045403.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/32.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "aad47dfd-4732-4f4f-96f8-dadc5cc3aac6",
+  "insertionIndex" : 80
+}

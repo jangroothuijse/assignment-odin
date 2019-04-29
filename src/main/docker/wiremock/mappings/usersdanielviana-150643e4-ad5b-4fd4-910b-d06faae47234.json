@@ -1,0 +1,16 @@
+{
+  "id" : "150643e4-ad5b-4fd4-910b-d06faae47234",
+  "request" : {
+    "url" : "/users/daniel/viana",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"daniel\"},\"surname\":{\"value\":\"viana\"},\"dateOfBirth\":274852128.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/76.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "150643e4-ad5b-4fd4-910b-d06faae47234",
+  "insertionIndex" : 61
+}

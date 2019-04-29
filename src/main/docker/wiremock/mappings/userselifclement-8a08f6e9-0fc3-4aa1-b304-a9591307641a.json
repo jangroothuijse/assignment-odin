@@ -1,0 +1,16 @@
+{
+  "id" : "8a08f6e9-0fc3-4aa1-b304-a9591307641a",
+  "request" : {
+    "url" : "/users/elif/clement",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"elif\"},\"surname\":{\"value\":\"clement\"},\"dateOfBirth\":-682498278.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/83.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "8a08f6e9-0fc3-4aa1-b304-a9591307641a",
+  "insertionIndex" : 13
+}

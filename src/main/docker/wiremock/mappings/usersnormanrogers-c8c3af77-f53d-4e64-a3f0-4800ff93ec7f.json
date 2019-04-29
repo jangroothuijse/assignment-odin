@@ -1,0 +1,16 @@
+{
+  "id" : "c8c3af77-f53d-4e64-a3f0-4800ff93ec7f",
+  "request" : {
+    "url" : "/users/norman/rogers",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"norman\"},\"surname\":{\"value\":\"rogers\"},\"dateOfBirth\":-545883553.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/17.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "c8c3af77-f53d-4e64-a3f0-4800ff93ec7f",
+  "insertionIndex" : 82
+}

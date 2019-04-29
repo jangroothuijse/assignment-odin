@@ -1,0 +1,16 @@
+{
+  "id" : "591d4ff2-ab6b-42a7-af86-564595d1b4f1",
+  "request" : {
+    "url" : "/users/nikolaj/andersen",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"nikolaj\"},\"surname\":{\"value\":\"andersen\"},\"dateOfBirth\":763244262.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/68.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "591d4ff2-ab6b-42a7-af86-564595d1b4f1",
+  "insertionIndex" : 18
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "c5e8df67-dede-4c80-bab4-9a2fa02e5764",
+  "request" : {
+    "url" : "/users/koray/atakol",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"koray\"},\"surname\":{\"value\":\"atakol\"},\"dateOfBirth\":536940332.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/80.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "c5e8df67-dede-4c80-bab4-9a2fa02e5764",
+  "insertionIndex" : 8
+}

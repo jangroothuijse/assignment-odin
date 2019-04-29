@@ -1,0 +1,16 @@
+{
+  "id" : "1ebcfefc-78b5-4023-9621-0619c9a6200c",
+  "request" : {
+    "url" : "/users/rainer/david",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"rainer\"},\"surname\":{\"value\":\"david\"},\"dateOfBirth\":818350434.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/40.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "1ebcfefc-78b5-4023-9621-0619c9a6200c",
+  "insertionIndex" : 98
+}

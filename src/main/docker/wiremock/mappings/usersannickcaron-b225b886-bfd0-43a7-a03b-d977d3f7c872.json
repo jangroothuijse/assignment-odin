@@ -1,0 +1,16 @@
+{
+  "id" : "b225b886-bfd0-43a7-a03b-d977d3f7c872",
+  "request" : {
+    "url" : "/users/annick/caron",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"annick\"},\"surname\":{\"value\":\"caron\"},\"dateOfBirth\":-419652019.000000000,\"gender\":\"FEMALE\",\"pictureFileName\":\"portraits/med/women/22.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "b225b886-bfd0-43a7-a03b-d977d3f7c872",
+  "insertionIndex" : 16
+}

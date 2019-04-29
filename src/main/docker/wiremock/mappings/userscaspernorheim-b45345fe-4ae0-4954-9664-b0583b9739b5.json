@@ -1,0 +1,16 @@
+{
+  "id" : "b45345fe-4ae0-4954-9664-b0583b9739b5",
+  "request" : {
+    "url" : "/users/casper/norheim",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"casper\"},\"surname\":{\"value\":\"norheim\"},\"dateOfBirth\":-178216160.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/82.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "b45345fe-4ae0-4954-9664-b0583b9739b5",
+  "insertionIndex" : 65
+}

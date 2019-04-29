@@ -1,0 +1,16 @@
+{
+  "id" : "5b0bd49c-7e09-4963-9834-1a89857a2dff",
+  "request" : {
+    "url" : "/users/okan/kunt",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":{\"value\":\"okan\"},\"surname\":{\"value\":\"kunt\"},\"dateOfBirth\":-311387728.000000000,\"gender\":\"MALE\",\"pictureFileName\":\"portraits/med/men/16.jpg\"}",
+    "headers" : {
+      "content-type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "5b0bd49c-7e09-4963-9834-1a89857a2dff",
+  "insertionIndex" : 42
+}
